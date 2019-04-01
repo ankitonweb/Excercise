@@ -1,0 +1,8 @@
+Q1 When writing a multithreaded program using multi threaded library that is part of C++ standard library.
+Which of the following are valid statements:-
+
+A. When multiple threads are accesssing shared resources . acess control is done automatcially by the c++ runtime environment and is seamless to individual thread.
+B. Resource sharing among threads cannot be done safely in all Situations and best avoided.
+C. There are several things the thread must do, inorder to saefely share a resource.
+D. When multiple threads are sharing a resource, the order in which the threads are sharing resource doesn't matter since they all have their own virtual instance of the resource.
+E. If a thread "locks" a resource that resource is automaticly unlocked when the thread terminates.
