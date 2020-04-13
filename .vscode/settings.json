@@ -1,6 +1,13 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "memory": "cpp",
+        "__functional_base": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp"
     }
 }
