@@ -8,6 +8,12 @@
         "iosfwd": "cpp",
         "iostream": "cpp",
         "string": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "memory_resource": "cpp",
+        "__mutex_base": "cpp",
+        "__hash_table": "cpp",
+        "unordered_map": "cpp"
     }
 }
